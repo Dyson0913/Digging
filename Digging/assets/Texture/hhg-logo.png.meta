@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7b4dc04d-7d5b-45a3-aaab-0cd3ecfc9bce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hhg-logo": {
+      "ver": "1.0.3",
+      "uuid": "b3d8a7f0-89ff-47a3-863b-b65322a25403",
+      "rawTextureUuid": "7b4dc04d-7d5b-45a3-aaab-0cd3ecfc9bce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 37,
+      "trimY": 151,
+      "width": 301,
+      "height": 73,
+      "rawWidth": 375,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
